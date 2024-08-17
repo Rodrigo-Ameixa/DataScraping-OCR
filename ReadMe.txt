@@ -1,0 +1,3 @@
+Project Overview
+
+In this project, I extract and utilize HCPCS codes of type A to obtain pricing information for specific procedures from the Medicare website. By leveraging Selenium, I automate the process of retrieving the average prices directly from the website. Additionally, I employ OCR technology to extract text from a UB-04 form and then calculate the percentage difference between the billed charges and the average prices obtained from Medicare.
